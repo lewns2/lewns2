@@ -40,5 +40,5 @@ Frontend Developer / Algorithm Learner
 <h3>Algorithm Note</h3>
 
 * [CSES Solution](https://github.com/lewns2/CSES-Solutions) : CSES solution code using cpp
-
+* [BOJ](https://github.com/lewns2/BOJ) : BOJ solution code using cpp
 
