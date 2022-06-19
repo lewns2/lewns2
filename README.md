@@ -22,8 +22,7 @@ Frontend Developer / Algorithm Learner
 * BOJ : [lewns2](https://www.acmicpc.net/user/lewns2)
 * Solved.ac : [lewns2](https://solved.ac/profile/lewns2) 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lewns2)](https://solved.ac/profile/lewns2)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lewns2)](https://solved.ac/lewns2/)
 
 <h2>📁 Study Note</h2>
 
