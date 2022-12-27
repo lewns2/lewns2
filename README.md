@@ -32,9 +32,11 @@ Developer / Algorithm Learner
 * [Eodiya Coffee](https://github.com/lewns2/Eodiya-Coffee) : 서울시 카페 창업을 위한 상권 분석 및 추천 웹 서비스
 * [늘비상담](https://github.com/lewns2/Neulbi-Counseling) : 비대면 화상 상담 웹 서비스
 
-<h3>Frontend Note</h3>
+<h3>Develop Note</h3>
 
+* [Toy](https://github.com/lewns2/Toy) : For improve skills(ex. FE test, spring...)
 * [React Testing](https://github.com/lewns2/learn-about-testing-for-react) : Learn about react testing
+
 
 <h3>Algorithm Note</h3>
 
