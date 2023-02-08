@@ -2,9 +2,12 @@
 
 Developer / Algorithm Learner
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=flat-for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-for-the-badge&logo=Vue.js&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-for-the-badge&logo=PWA&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-for-the-badge&logo=Jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-for-the-badge&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-for-the-badge&logo=Jest&logoColor=white"/>
 
 
 <h2>💡 Education</h2>
@@ -26,17 +29,16 @@ Developer / Algorithm Learner
 
 <h2>📁 Study Note</h2>
 
+<h3>Develop Note</h3>
+
+* [Toy](https://github.com/lewns2/Toy) : For improve skills
+
 <h3>Projects</h3>
 
+* [manageURL](https://github.com/lewns2/manageURL) : URL 기반 기록 웹 서비스
 * [한줌](https://github.com/lewns2/HANZOOM) : 위치 기반 식재료 나눔/교환 서비스 웹앱
 * [Eodiya Coffee](https://github.com/lewns2/Eodiya-Coffee) : 서울시 카페 창업을 위한 상권 분석 및 추천 웹 서비스
 * [늘비상담](https://github.com/lewns2/Neulbi-Counseling) : 비대면 화상 상담 웹 서비스
-
-<h3>Develop Note</h3>
-
-* [Toy](https://github.com/lewns2/Toy) : For improve skills(ex. FE test, spring...)
-* [React Testing](https://github.com/lewns2/learn-about-testing-for-react) : Learn about react testing
-
 
 <h3>Algorithm Note</h3>
 
