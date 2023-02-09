@@ -8,6 +8,7 @@ Developer / Algorithm Learner
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-for-the-badge&logo=Jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-for-the-badge&logo=JUnit5&logoColor=white"/>
 
 
 <h2>💡 Education</h2>
